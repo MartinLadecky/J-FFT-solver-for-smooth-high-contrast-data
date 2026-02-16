@@ -1,0 +1,9 @@
+# Core dependencies
+numpy>=2.2.6
+matplotlib>=3.10.8
+scipy>=1.15.3
+
+# Jupyter
+jupyter>=1.1.1
+notebook>=7.5.3
+
