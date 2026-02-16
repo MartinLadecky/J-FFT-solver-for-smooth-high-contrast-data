@@ -39,7 +39,7 @@ The notebooks demonstrate the performance of Green, Jacobi, and Green-Jacobi pre
 2. `notebooks/introduction_elasticity.ipynb` - Application to 2D linear elasticity.
 3. `notebooks/sharp_vs_smooth_data.ipynb` - Comparison using auxetic microstructure with sharp vs. smooth transitions.
 4. `notebooks/sharp_vs_smooth_data_variable_jacobi.ipynb` - Investigation of Jacobi fallback stability at extreme contrasts.
-5. `notebooks/mesh_size_dependency.ipynb` - Evaluation of PCG iteration count vs. grid size for sharp and smooth square inclusions.
+5. `notebooks/mesh_size_dependency.ipynb` - Evaluation of PCG iteration count vs. grid size for sharp and smooth geometries.
 
 ## Data
 
