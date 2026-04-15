@@ -72,7 +72,6 @@ Martin Ladecký - [m.ladecky@gmail.com](mailto:m.ladecky@gmail.com)
 
 ## Funding
 
-This development has received funding from the European Commission (Marie Sklodowska-Curie Fellow-
-ship 101106585 — microFFTTO).
+This development has received funding from the European Commission (Marie Sklodowska-Curie Fellowship 101106585 — microFFTTO).
 
 
