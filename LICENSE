@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
-Copyright (c) 2026 Martin Ladecký, Ivana Pultarová, François Bignonnet, Indre Jödicke, Jan Zeman, Lars Pastewka
+Copyright (c) 2026 Martin Ladecký, Ivana Pultarová, François Bignonnet,
+                   Indře Jädicke, Jan Zeman, Lars Pastewka
+
+This software is based in part on GooseFFT by T.W.J. de Geus and J. Vondřejc
+(https://github.com/tdegeus/GooseFFT), used as a template under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
