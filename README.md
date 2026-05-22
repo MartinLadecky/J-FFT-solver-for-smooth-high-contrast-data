@@ -22,7 +22,10 @@ This repository contains the supplementary code and data for the paper:
 │   ├── introduction_elasticity.ipynb
 │   ├── sharp_vs_smooth_data.ipynb
 │   ├── sharp_vs_smooth_data_variable_jacobi.ipynb
-│   └── mesh_size_dependency.ipynb
+│   ├── mesh_size_dependency.ipynb
+│   ├── computational_time.ipynb
+│   ├── power_law_elasticity.ipynb
+│   └── power_law_elasticity_de_Geus.ipynb
 ├── data/                   # Microstructure data (.npy files)
 └── figures/                # Generated figures
 ```
@@ -40,6 +43,9 @@ The notebooks demonstrate the performance of Green, Jacobi, and Green-Jacobi pre
 3. `notebooks/sharp_vs_smooth_data.ipynb` - Comparison using auxetic microstructure with sharp vs. smooth transitions.
 4. `notebooks/sharp_vs_smooth_data_variable_jacobi.ipynb` - Investigation of Jacobi fallback stability at extreme contrasts.
 5. `notebooks/mesh_size_dependency.ipynb` - Evaluation of PCG iteration count vs. grid size for sharp and smooth geometries.
+6. `notebooks/computational_time.ipynb` - Computational time comparison across different preconditioners and problem sizes.
+7. `notebooks/power_law_elasticity.ipynb` - Nonlinear power-law elasticity problems with preconditioner performance analysis.
+8. `notebooks/power_law_elasticity_de_Geus.ipynb` - Power-law elasticity examples adapted from de Geus methodology.
 
 ## Data
 
@@ -59,7 +65,16 @@ If you use this code, please cite:
       primaryClass={math.NA},
       url={https://arxiv.org/abs/2508.02613}, 
 }
-```
+
+## Acknowledgments
+
+This code was partially adapted/motivated by:
+
+- **GooseFFT** by T.W.J. de Geus and J. Vondřejc
+- Original source: https://github.com/tdegeus/GooseFFT
+- Original license: MIT License, Copyright (c) 2016 T.W.J. de Geus
+- de Geus et al., Comput. Methods Appl. Mech. Eng., 2017, 318:412–430
+- https://doi.org/10.1016/j.cma.2016.12.032
 
 ## License
 
