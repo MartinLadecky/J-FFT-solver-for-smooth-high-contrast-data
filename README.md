@@ -65,6 +65,7 @@ If you use this code, please cite:
       primaryClass={math.NA},
       url={https://arxiv.org/abs/2508.02613}, 
 }
+```
 
 ## Acknowledgments
 
