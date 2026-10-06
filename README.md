@@ -84,7 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Martin Ladecký - [martin.ladecky@imtek.uni-freiburg.de](mailto:martin.ladecky@imtek.uni-freiburg.de)  
-Martin Ladecký - [m.ladecky@gmail.com](mailto:m.ladecky@gmail.com)
 
 ## Funding
 
